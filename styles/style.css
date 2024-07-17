@@ -33,7 +33,7 @@ body{
 
 .header__texto{
     display: flex;
-    gap: 15rem;
+    gap: 30rem;
     align-items: center;
     margin-right: 15rem;
 }
